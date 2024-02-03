@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@backstage/plugin-cicd-statistics": "^0.1.9-next.0",
-    "@gitbeaker/browser": "^35.6.0",
+    "@gitbeaker/browser": "^35.8.1",
     "@gitbeaker/core": "^35.6.0",
     "luxon": "^2.0.2",
     "p-limit": "^4.0.0",
